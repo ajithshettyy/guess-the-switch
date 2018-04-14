@@ -14,6 +14,9 @@ require_once('logic.php');
     </head>
     <body class="container">
         <div>
+        <div class="gitlink">
+            <a href="https://github.com/ajithbshetty/guess-the-switch/" target="_blank"><i class="fa fa-github" style="font-size:48px;color:red"></i>Source Code</a>
+        </div>
         <div class="title text-center">
             <h2>GUESS THE SWITCH</h2>
         </div>
@@ -41,9 +44,6 @@ require_once('logic.php');
             <a href=""><span class=reload>&#x21bb;</span></a>
         </div>
         </div>
-        <div class="gitlink">
-            <a href="https://github.com/ajithbshetty" target="_blank"><i class="fa fa-github" style="font-size:48px;color:red"></i>Source Code</a>
-        <div>
     </body>
     <script>
         function clickswitch(ele, guessVal){
