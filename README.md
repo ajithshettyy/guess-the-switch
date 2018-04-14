@@ -3,5 +3,5 @@
 It's Simple game using PHP, Jquery, HTMl and CSS. The game is all about guessing the right switch
 
 # Game has total 6 levels
-# In every level you will have 3 attempts to guess
-# Points will be assigned based on the attempts you took to guess
+# In every level you will get 3 attempts to guess
+# Points will be assigned based on the number of attempts you took to guess
