@@ -49,7 +49,6 @@ function initialize(){
             break;
     }
     $switch = rand(0,$switches); // Assigning a random switch
-    $switch = 1;
     $_SESSION['switch'] = $switch; // Storing switch
 }
 
